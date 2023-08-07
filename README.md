@@ -1,1 +1,2 @@
 # Random-Password-Generator
+Created a Random Password Generator where user can generate the password using various format like Length of the password, Uppercase Letters, Lowercase Letters, include Numbers and Symbols also and user can directly copy generated password to the Clipboard. ![Screenshot 2023-08-07 224528](https://github.com/Siddesh42/Random-Password-Generator/assets/134169184/978e75c0-3e7b-4ea3-bc6b-dde7e87ef1d0)
